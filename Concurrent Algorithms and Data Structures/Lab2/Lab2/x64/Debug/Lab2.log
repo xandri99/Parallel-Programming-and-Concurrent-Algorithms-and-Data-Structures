@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\optional(11): warning STL4038: The contents of <optional> are available only with C++17 or later.
+C:\Users\bxz19\Documents\Bioinfo UU\Year 2\Semester 1\2nd Term\Concurrent Algorithms and Data Structures\Lab2\Lab2\monitoring.hpp(150,10): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\chrono(48,1):
+  see declaration of 'std'
+  C:\Users\bxz19\Documents\Bioinfo UU\Year 2\Semester 1\2nd Term\Concurrent Algorithms and Data Structures\Lab2\Lab2\monitoring.hpp(150,10):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\bxz19\Documents\Bioinfo UU\Year 2\Semester 1\2nd Term\Concurrent Algorithms and Data Structures\Lab2\Lab2\monitoring.hpp(171,2):
+  	see reference to class template instantiation 'OpGenerator<Op>' being compiled
+  
+C:\Users\bxz19\Documents\Bioinfo UU\Year 2\Semester 1\2nd Term\Concurrent Algorithms and Data Structures\Lab2\Lab2\monitoring.hpp(150,18): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bxz19\Documents\Bioinfo UU\Year 2\Semester 1\2nd Term\Concurrent Algorithms and Data Structures\Lab2\Lab2\monitoring.hpp(150,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\bxz19\Documents\Bioinfo UU\Year 2\Semester 1\2nd Term\Concurrent Algorithms and Data Structures\Lab2\Lab2\monitoring.hpp(150,41): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'main.cpp')
+  
+C:\Users\bxz19\Documents\Bioinfo UU\Year 2\Semester 1\2nd Term\Concurrent Algorithms and Data Structures\Lab2\Lab2\bench.hpp(9,10): error C1083: Cannot open include file: 'sys/time.h': No such file or directory
+  (compiling source file 'main.cpp')
+  
