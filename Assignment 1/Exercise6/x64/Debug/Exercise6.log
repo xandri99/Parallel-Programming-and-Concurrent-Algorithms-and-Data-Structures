@@ -1,0 +1,4 @@
+﻿  dining.cpp
+C:\Users\bxz19\Documents\Bioinfo UU\Year 2\Semester 1\Introduction to Parallel Programming\Assignment 1\Exercise6\dining.cpp(59,27): error C2039: 'stoi': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\mutex(30,1): message : see declaration of 'std'
+C:\Users\bxz19\Documents\Bioinfo UU\Year 2\Semester 1\Introduction to Parallel Programming\Assignment 1\Exercise6\dining.cpp(59,27): error C3861: 'stoi': identifier not found
