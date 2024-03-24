@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\optional(12): warning STL4038: The contents of <optional> are available only with C++17 or later.
+C:\Users\bxz19\Documents\Bioinfo UU\Year 2\Semester 1\2nd Term\Concurrent Algorithms and Data Structures\Lab1\Lab1\monitoring.hpp(117,10): error C2039: 'optional': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\chrono(49,1): message : see declaration of 'std'
+C:\Users\bxz19\Documents\Bioinfo UU\Year 2\Semester 1\2nd Term\Concurrent Algorithms and Data Structures\Lab1\Lab1\monitoring.hpp(138,2): message : see reference to class template instantiation 'OpGenerator<Op>' being compiled
+C:\Users\bxz19\Documents\Bioinfo UU\Year 2\Semester 1\2nd Term\Concurrent Algorithms and Data Structures\Lab1\Lab1\monitoring.hpp(117,18): error C2143: syntax error: missing ';' before '<'
+C:\Users\bxz19\Documents\Bioinfo UU\Year 2\Semester 1\2nd Term\Concurrent Algorithms and Data Structures\Lab1\Lab1\monitoring.hpp(117,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\bxz19\Documents\Bioinfo UU\Year 2\Semester 1\2nd Term\Concurrent Algorithms and Data Structures\Lab1\Lab1\monitoring.hpp(117,41): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\bxz19\Documents\Bioinfo UU\Year 2\Semester 1\2nd Term\Concurrent Algorithms and Data Structures\Lab1\Lab1\main.cpp(16,29): error C2065: 'op': undeclared identifier
+C:\Users\bxz19\Documents\Bioinfo UU\Year 2\Semester 1\2nd Term\Concurrent Algorithms and Data Structures\Lab1\Lab1\main.cpp(16,31): error C2059: syntax error: ':'
+C:\Users\bxz19\Documents\Bioinfo UU\Year 2\Semester 1\2nd Term\Concurrent Algorithms and Data Structures\Lab1\Lab1\main.cpp(16,60): error C2143: syntax error: missing ';' before '}'
+C:\Users\bxz19\Documents\Bioinfo UU\Year 2\Semester 1\2nd Term\Concurrent Algorithms and Data Structures\Lab1\Lab1\main.cpp(16,60): error C2059: syntax error: '}'
+C:\Users\bxz19\Documents\Bioinfo UU\Year 2\Semester 1\2nd Term\Concurrent Algorithms and Data Structures\Lab1\Lab1\main.cpp(17,28): error C2143: syntax error: missing ';' before '{'
+C:\Users\bxz19\Documents\Bioinfo UU\Year 2\Semester 1\2nd Term\Concurrent Algorithms and Data Structures\Lab1\Lab1\main.cpp(17,28): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\bxz19\Documents\Bioinfo UU\Year 2\Semester 1\2nd Term\Concurrent Algorithms and Data Structures\Lab1\Lab1\main.cpp(17,64): error C2059: syntax error: ','
+C:\Users\bxz19\Documents\Bioinfo UU\Year 2\Semester 1\2nd Term\Concurrent Algorithms and Data Structures\Lab1\Lab1\main.cpp(18,28): error C2143: syntax error: missing ';' before '{'
+C:\Users\bxz19\Documents\Bioinfo UU\Year 2\Semester 1\2nd Term\Concurrent Algorithms and Data Structures\Lab1\Lab1\main.cpp(18,28): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\bxz19\Documents\Bioinfo UU\Year 2\Semester 1\2nd Term\Concurrent Algorithms and Data Structures\Lab1\Lab1\main.cpp(18,66): error C2059: syntax error: ','
+C:\Users\bxz19\Documents\Bioinfo UU\Year 2\Semester 1\2nd Term\Concurrent Algorithms and Data Structures\Lab1\Lab1\main.cpp(19,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\bxz19\Documents\Bioinfo UU\Year 2\Semester 1\2nd Term\Concurrent Algorithms and Data Structures\Lab1\Lab1\main.cpp(19,1): error C2059: syntax error: '}'
+C:\Users\bxz19\Documents\Bioinfo UU\Year 2\Semester 1\2nd Term\Concurrent Algorithms and Data Structures\Lab1\Lab1\main.cpp(197,26): error C2039: 'stoi': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\set(23,1): message : see declaration of 'std'
+C:\Users\bxz19\Documents\Bioinfo UU\Year 2\Semester 1\2nd Term\Concurrent Algorithms and Data Structures\Lab1\Lab1\main.cpp(197,26): error C3861: 'stoi': identifier not found
